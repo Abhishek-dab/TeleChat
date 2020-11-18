@@ -1,5 +1,6 @@
 # TeleChat
 
+The app supports one on one chat conversations with multiple users. Users can search for multiple users based on their names and start a chat room with them.  
 # Features:
 
 * SignUp, SignIn and SignOut
