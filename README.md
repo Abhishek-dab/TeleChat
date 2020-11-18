@@ -1,6 +1,14 @@
 # TeleChat
 
-# About:
+# Features:
+
+* SignUp, SignIn and SignOut
+* Search for registered users
+* Create individual chat rooms
+* Instant messages
+
+
+
 
 # Images:
 
