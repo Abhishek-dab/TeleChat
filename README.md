@@ -1,6 +1,8 @@
 # TeleChat
 
-# Images
+# About:
+
+# Images:
 
 <img src="images/WhatsApp Image 2020-11-18 at 16.46.42 (3).jpeg" width="250" height="500" >                    <img src="images/WhatsApp Image 2020-11-18 at 16.46.42.jpeg" width="250" height="500" > 
 
